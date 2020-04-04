@@ -1,4 +1,4 @@
-package it.polito.tdp.metroparis.model;
+  package it.polito.tdp.metroparis.model;
 
 public class Connessione {
 
